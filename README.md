@@ -1,9 +1,5 @@
 # CollabUO
-COMING SOON - CollabUO is a collaborative platform designed for university students to enhance teamwork on group projects and labs. It streamlines project management, communication, and coordination, fostering productivity and success. Use of this software is subject to specific licensing terms.
-
-# CollabUO
-
-CollabUO is a collaborative platform designed to streamline teamwork among university students, facilitating efficient collaboration on group projects and labs.
+COMING SOON - CollabUO is a collaborative platform designed for university students to enhance and facilitate teamwork on group projects and labs. It streamlines project management, communication, and coordination, fostering productivity and success. Use of this software is subject to specific licensing terms.
 
 ## Features
 

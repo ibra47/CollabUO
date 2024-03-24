@@ -32,5 +32,5 @@ If you have any feedback, suggestions, or issues, please feel free to [open an i
 
 ## Contact
 
-For questions about CollabUO or commercial use permission, please contact [your contact information].
+For questions about CollabUO or commercial use permission, please contact dev.ibrahimd@gmail.com.
 

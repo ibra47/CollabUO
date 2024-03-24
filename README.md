@@ -1,5 +1,5 @@
 # CollabUO
-COMING SOON - CollabUO is a collaborative platform designed for university students to enhance and facilitate teamwork on group projects and labs. It streamlines project management, communication, and coordination, fostering productivity and success. Use of this software is subject to specific licensing terms.
+COMING SOON - CollabUO is a collaborative platform designed for University Of Ottawa students to enhance and facilitate teamwork on group projects and labs. It streamlines project management, communication, and coordination, fostering productivity and success. Use of this software is subject to specific licensing terms.
 
 ## Features
 
